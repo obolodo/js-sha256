@@ -7,6 +7,17 @@
  * @license MIT
  */
 /*jslint bitwise: true */
+
+/*
+cambios de prueba 2017-07-29
+curosso de gitsa git
+
+
+
+
+*/
+
+
 (function () {
   'use strict';
 
